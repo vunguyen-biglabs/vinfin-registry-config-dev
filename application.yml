@@ -13,3 +13,4 @@ jhipster:
         authentication:
             jwt:
                 secret: my-secret-token-to-change-in-production
+application.endorsementCount:4
